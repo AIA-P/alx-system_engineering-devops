@@ -1,0 +1,16 @@
+total 27
+drwxr-xr-x 1 Agent 28 197121   0 Dec 11 11:28 .
+drwxr-xr-x 1 Agent 28 197121   0 Dec 11 10:52 ..
+-rwxr-xr-x 1 Agent 28 197121  32 Dec 11 10:50 0-hello_world
+-rwxr-xr-x 1 Agent 28 197121  28 Dec 11 10:57 1-confused_smiley
+-rwxr-xr-x 1 Agent 28 197121  28 Dec 11 10:59 2-hellofile
+-rwxr-xr-x 1 Agent 28 197121  39 Dec 11 11:02 3-twofiles
+-rwxr-xr-x 1 Agent 28 197121  29 Dec 11 11:03 4-lastlines
+-rwxr-xr-x 1 Agent 28 197121  29 Dec 11 11:05 5-firstlines
+-rwxr-xr-x 1 Agent 28 197121  36 Dec 11 11:05 6-third_line
+-rwxr-xr-x 1 Agent 28 197121  93 Dec 11 11:22 7-file
+-rwxr-xr-x 1 Agent 28 197121  36 Dec 11 11:25 8-cwd_state
+-rwxr-xr-x 1 Agent 28 197121  35 Dec 11 11:26 9-duplicate_last_line
+-rw-r--r-- 1 Agent 28 197121 801 Dec 11 11:08 iacta
+-rw-r--r-- 1 Agent 28 197121   0 Dec 11 11:28 ls_cwd_content
+-rw-r--r-- 1 Agent 28 197121 193 Dec 11 10:46 README.md
